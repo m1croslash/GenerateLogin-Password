@@ -1,4 +1,4 @@
 # Guide:
 __________________________________
-### Run the script:
+Run the script:
 ```python generate.py```
