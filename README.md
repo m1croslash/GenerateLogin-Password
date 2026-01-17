@@ -1,4 +1,4 @@
 # Simple generate Login&Password
 __________________________________
-## Run the Bot:
+## Run the script:
 ```python generate.py```
