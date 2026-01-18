@@ -1,4 +1,7 @@
 # Guide:
 __________________________________
 ## Run the script
-```python generate.py```
+Linux/Windows/MacOS
+```bash
+python generate.py
+```
